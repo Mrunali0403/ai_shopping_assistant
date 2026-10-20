@@ -1,0 +1,2 @@
+crewai[openai]==1.15.28
+streamlit==1.66.0

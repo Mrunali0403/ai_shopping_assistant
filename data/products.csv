@@ -1,0 +1,16 @@
+product_id,name,price_inr,ram_gb,processor,storage,battery_life_hours,rating,features,customer_reviews,data_type
+SAMPLE-LAP-001,Acer Aspire Lite 14,42990,8,Intel Core i3-1215U,512GB SSD,8,4.1,"14-inch FHD display; lightweight chassis; Wi-Fi 6","Good value for study and browsing. Fan is audible under heavy use.",sample
+SAMPLE-LAP-002,Lenovo IdeaPad Slim 3,48990,16,AMD Ryzen 5 7520U,512GB SSD,9,4.3,"15.6-inch FHD display; privacy shutter; rapid charge","Comfortable keyboard and dependable everyday performance.",sample
+SAMPLE-LAP-003,ASUS Vivobook Go 15,37990,8,AMD Ryzen 3 7320U,512GB SSD,7,4.0,"15.6-inch FHD display; anti-glare panel; slim design","Works well for classes, though the speakers are average.",sample
+SAMPLE-LAP-004,HP 15s,55990,16,Intel Core i5-1235U,512GB SSD,8,4.2,"15.6-inch FHD display; numeric keypad; fast charging","Quick for office tasks and has a useful numeric keypad.",sample
+SAMPLE-LAP-005,Dell Inspiron 14,64990,16,Intel Core i5-1335U,512GB SSD,10,4.4,"14-inch FHD+ display; backlit keyboard; USB-C","Solid build and good battery life for a workday.",sample
+SAMPLE-LAP-006,Lenovo V15,43990,8,AMD Ryzen 5 5500U,512GB SSD,7,4.0,"15.6-inch FHD display; numeric keypad; spill-resistant keyboard","Good port selection and performance for basic office work.",sample
+SAMPLE-LAP-007,ASUS Vivobook 16X,72990,16,Intel Core i5-12500H,512GB SSD,6,4.3,"16-inch display; backlit keyboard; dual-fan cooling","The large screen is useful, but battery life is modest.",sample
+SAMPLE-LAP-008,HP Pavilion Aero 13,79990,16,AMD Ryzen 7 7735U,1TB SSD,11,4.5,"13.3-inch WUXGA display; lightweight body; fingerprint reader","Very portable with a sharp screen and long battery life.",sample
+SAMPLE-LAP-009,Acer Aspire 5,61990,16,Intel Core i5-12450H,512GB SSD,7,4.2,"15.6-inch IPS display; backlit keyboard; Wi-Fi 6","Responsive for multitasking and easy to upgrade.",sample
+SAMPLE-LAP-010,MSI Modern 14,68990,16,Intel Core i7-1255U,512GB SSD,8,4.1,"14-inch FHD display; 180-degree hinge; USB-C charging","Light and capable, although the touchpad took time to adjust to.",sample
+SAMPLE-LAP-011,Apple MacBook Air M2,99900,8,Apple M2,256GB SSD,15,4.7,"13.6-inch Liquid Retina display; fanless design; MagSafe charging","Quiet, fast, and excellent on battery; storage is limited.",sample
+SAMPLE-LAP-012,Lenovo ThinkBook 14,74990,16,AMD Ryzen 7 7730U,512GB SSD,9,4.4,"14-inch FHD display; fingerprint reader; privacy shutter","A well-rounded work laptop with a comfortable keyboard.",sample
+SAMPLE-LAP-013,ASUS TUF Gaming F15,84990,16,Intel Core i5-12500H,512GB SSD,5,4.3,"15.6-inch 144Hz display; dedicated graphics; enhanced cooling","Good gaming performance for the price, but it is heavy.",sample
+SAMPLE-LAP-014,Dell Vostro 3520,52990,8,Intel Core i5-1235U,512GB SSD,6,4.0,"15.6-inch FHD display; numeric keypad; security features","Suitable for office use; battery life is shorter than expected.",sample
+SAMPLE-LAP-015,HP 14s,46990,8,AMD Ryzen 5 5500U,512GB SSD,8,4.1,"14-inch FHD display; micro-edge bezel; fast charging","Compact and responsive for everyday tasks.",sample
